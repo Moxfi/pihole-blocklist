@@ -63,3 +63,10 @@ ttlivecdn.com
 ttlivecdn.com.c.worldfcdn.com
 ttoversea.net
 ttoverseaus.net
+
+# telegram block
+t.me
+telegram.me
+telegram.org
+telesco.pe
+tg.dev
