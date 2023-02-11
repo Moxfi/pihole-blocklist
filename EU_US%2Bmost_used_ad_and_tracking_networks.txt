@@ -790,7 +790,7 @@ benchmarkemail.com
 benchtag2.co
 bentonow.com
 berg-6-82.com
-bestcontactform.com$~image,third-party
+bestcontactform.com
 best-top.com
 besucherstats.de
 besucherzaehler.org
@@ -1561,7 +1561,7 @@ electusdigital.com
 elitedollars.com
 elite-s001.com
 elitics.com
-eloqua.com$~stylesheet,third-party
+eloqua.com
 eloqua.com
 elpais.com
 elsevier.com
@@ -2907,7 +2907,7 @@ metapeople.com
 metaresolver.com
 meteorsolutions.com
 methodcash.com
-metric.gstatic.com$image,third-party
+metric.gstatic.com
 metrica.yandex.com
 metricode.com
 metricool.com
@@ -3167,7 +3167,7 @@ nerfherdersolo.com
 nero.live
 nervoussummer.com
 nestedmedia.com
-netaffiliation.com$script,third-party
+netaffiliation.com
 netaffiliation.com
 netagent.cz
 netapplications.com
@@ -3486,7 +3486,7 @@ pch.com
 pclicks.com
 pcspeedup.com
 pdbu.net
-pdst.fm$script,third-party
+pdst.fm
 pdvacde.com
 peakcounter.dk
 peer39.com
@@ -5187,7 +5187,7 @@ waust.at
 way2traffic.com
 wbdx.fr
 wbtrk.net
-wc4.net$image,third-party
+wc4.net
 wcfbc.net
 wdfl.co
 wdsvc.net
